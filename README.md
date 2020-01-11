@@ -7,7 +7,7 @@ Last updated Jan 2020
 
 ## [GoogleMapsAPI]( https://github.com/EdamGTD/JS-GoogleMapsAPI)
 
-GoogleMapsAPI adds an interactive map to a website which shows markers detailing locations as well as related information (click event) stored in a MySQL database and connected with PHP. It will serve as a component for a bigger project. 
+GoogleMapsAPI adds an interactive map to a website which shows markers detailing locations as well as related information (click event) stored in a MySQL database and connected with PHP/JavaScript. It will serve as a component for a bigger project. 
 
 ## [RaspberryPiTemperature]( https://github.com/EdamGTD/RaspberryPiTemperature)
 
