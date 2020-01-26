@@ -12,4 +12,4 @@ GoogleMapsAPI adds an interactive map to a website which shows markers detailing
 ## [RaspberryPiTemperature]( https://github.com/EdamGTD/RaspberryPiTemperature)
 **THIS PROJECT HASN'T BEEN FINISHED 
 
-RaspberryPiTemperature uses python and PHP to connect a Raspberry Pi with a MySQL database to log temperature data detected by the SenseHat (Raspberry Pi add-on) 
+RaspberryPiTemperature uses python and PHP to connect a Raspberry Pi with a SQL database to log temperature data detected by the SenseHat (Raspberry Pi add-on) 
